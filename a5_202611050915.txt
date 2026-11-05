@@ -1,0 +1,1 @@
+Feature A5: add logout button
