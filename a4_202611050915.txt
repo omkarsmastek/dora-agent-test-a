@@ -1,0 +1,1 @@
+Hotfix A4: fix crash on empty profile
